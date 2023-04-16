@@ -39,12 +39,6 @@
       ]
     }
   },
-  "files": [
-    "src",
-    "dist",
-    "!dist/test",
-    "!**/*.tsbuildinfo"
-  ],
   "exports": {
     ".": {
       "types": "./dist/src/index.d.ts",
